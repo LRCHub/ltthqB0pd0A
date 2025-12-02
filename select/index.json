@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Fantasia for the Girls (M@STER VERSION) (久川颯ソロ・リミックス)",
+  "base_artist": "久川颯 (長江里加)",
+  "createdAt": "2025-12-02T12:07:02.808804Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (藤原肇ソロ・リミックス)",
+      "artist": "藤原肇",
+      "has_synced": true,
+      "path": "select/01_Fantasia_for_the_Girls_(M@STER_VERSION)_(藤原肇ソロ・リミックス)_藤原肇.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (赤城みりあソロ・リミックス)",
+      "artist": "赤城みりあ",
+      "has_synced": false,
+      "path": "select/02_Fantasia_for_the_Girls_(M@STER_VERSION)_(赤城みりあソロ・リミックス)_赤城みりあ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (神谷奈緒ソロ・リミックス)",
+      "artist": "神谷奈緒",
+      "has_synced": false,
+      "path": "select/03_Fantasia_for_the_Girls_(M@STER_VERSION)_(神谷奈緒ソロ・リミックス)_神谷奈緒.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (白雪千夜ソロ・リミックス)",
+      "artist": "白雪千夜",
+      "has_synced": false,
+      "path": "select/04_Fantasia_for_the_Girls_(M@STER_VERSION)_(白雪千夜ソロ・リミックス)_白雪千夜.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (星輝子ソロ・リミックス)",
+      "artist": "星輝子",
+      "has_synced": false,
+      "path": "select/05_Fantasia_for_the_Girls_(M@STER_VERSION)_(星輝子ソロ・リミックス)_星輝子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (小早川紗枝ソロ・リミックス)",
+      "artist": "小早川紗枝",
+      "has_synced": false,
+      "path": "select/06_Fantasia_for_the_Girls_(M@STER_VERSION)_(小早川紗枝ソロ・リミックス)_小早川紗枝.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (依田芳乃ソロ・リミックス)",
+      "artist": "依田芳乃",
+      "has_synced": false,
+      "path": "select/07_Fantasia_for_the_Girls_(M@STER_VERSION)_(依田芳乃ソロ・リミックス)_依田芳乃.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (久川颯ソロ・リミックス)",
+      "artist": "久川颯",
+      "has_synced": false,
+      "path": "select/08_Fantasia_for_the_Girls_(M@STER_VERSION)_(久川颯ソロ・リミックス)_久川颯.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (イヴ・サンタクロース ソロ・リミックス)",
+      "artist": "イヴ・サンタクロース",
+      "has_synced": false,
+      "path": "select/09_Fantasia_for_the_Girls_(M@STER_VERSION)_(イヴ・サンタクロース_ソロ・リミックス)_イヴ・サンタクロース.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION)",
+      "artist": "久川颯、イヴ・サンタクロース、白雪千夜、神谷奈緒、藤原肇、依田芳乃、赤城みりあ、星輝子、小早川紗枝",
+      "has_synced": true,
+      "path": "select/10_Fantasia_for_the_Girls_(M@STER_VERSION)_久川颯、イヴ・サンタクロース、白雪千夜、神谷奈緒、藤原肇、依田芳乃、赤城みりあ、星輝子、小早川紗枝.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fantasia for the Girls (M@STER VERSION) (オリジナル・カラオケ)",
+      "artist": "久川颯、イヴ・サンタクロース、白雪千夜、神谷奈緒、藤原肇、依田芳乃、赤城みりあ、星輝子、小早川紗枝",
+      "has_synced": true,
+      "path": "select/11_Fantasia_for_the_Girls_(M@STER_VERSION)_(オリジナル・カラオケ)_久川颯、イヴ・サンタクロース、白雪千夜、神谷奈緒、藤原肇、依田芳乃、赤城みりあ、星輝子、小早川紗枝.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fantasia for the Girls (M@STER VERSION)",
+      "artist": "久川颯(CV:長江里加)、イヴ・サンタクロース(CV:松永あかね)、白雪千夜(CV:関口理咲)、神谷奈緒(CV:松井恵理子)、藤原肇(CV:鈴木みのり)、依田芳乃(CV:高田憂希)、赤城みりあ(CV:黒沢ともよ)、星輝子(CV:松田颯水)、小早川紗枝(CV:立花理香)",
+      "has_synced": false,
+      "path": "select/pl_01_Fantasia_for_the_Girls_(M@STER_VERSION)_久川颯(CV_長江里加)、イヴ・サンタクロース(CV_松永あかね)、白雪千夜(CV_関口理咲)、神谷奈緒(CV_松井恵理子)、藤原肇(CV_鈴木みのり)、依田芳.txt"
+    }
+  ]
+}
